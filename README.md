@@ -1,4 +1,4 @@
-# PPLG - Personalised Password List Generator
+# PPLG - Personalized Password List Generator
 
 ## About
 
