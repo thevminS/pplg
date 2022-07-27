@@ -1,1 +1,1 @@
-# pplg
+# PPLG - Personalised Password List Generator
